@@ -4,9 +4,9 @@
 #include "BlynkSimpleEsp8266.h"
 #include "CayenneWiFiClient.h"
 
-char token[] = "ycecubqy15";
-char ssid[] = "Salgaonkar";
-char password[] = "789456123";
+char token[] = "xxxxx";
+char ssid[] = "xxxxx";
+char password[] = "xxxxx";
 
 unsigned long lastMillis = 0;
 int x;

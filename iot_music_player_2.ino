@@ -8,14 +8,14 @@ SoftwareSerial mySerial(D3, D2); // RX, TX
 unsigned long lastMillis = 0;
 int x;
 // WiFi network info.
-char ssid[] = "Redmi";
-char wifiPassword[] = "shramik49";
+char ssid[] = "xxx";
+char wifiPassword[] = "xxxx";
 
 
 
-char username[] = "1e6889a0-a8a0-11e6-a85d-c165103f15c2";
-char password[] = "0a7443db1f633b13a06d00adea16f34e1b14f1d2";
-char clientID[] = "30eb2ef0-add8-11e7-b177-579293954599";
+char username[] = "xxxxxxxxxxxxxx";
+char password[] = "xxxxx";
+char clientID[] = "xxxxx";
 
 void setup() {
   // put your setup code here, to run once:
